@@ -6,8 +6,8 @@ This repository contains all the work and projects done in the Springboard Data 
 2. [Capstone 2 - Prediciting Fake News Articles](https://github.com/mominasadullahkhan/Predicting-Fake-News-Articles)
 
 ### Take Home Challenges
-3. [Take Home Challenge 1 - Ultimate Challenge] (https://github.com/mominasadullahkhan/Springboard/blob/master/Take_Home%20Challenges/ultimate_challenge/Take_Home_Ultimate_Challenge.ipynb)
-4. [Take Home Challenge 2 - Relax Challenge] (https://github.com/mominasadullahkhan/Springboard/blob/master/Take_Home%20Challenges/relax_challenge/Relax_Challenge.ipynb)
+3. [Take Home Challenge 1 - Ultimate Challenge](https://github.com/mominasadullahkhan/Springboard/blob/master/Take_Home%20Challenges/ultimate_challenge/Take_Home_Ultimate_Challenge.ipynb)
+4. [Take Home Challenge 2 - Relax Challenge](https://github.com/mominasadullahkhan/Springboard/blob/master/Take_Home%20Challenges/relax_challenge/Relax_Challenge.ipynb)
 ### Data Wrangling Mini Projects
 5. [Data Wrangling - API](https://github.com/mominasadullahkhan/Springboard/blob/master/API_Data_Wrangling/api_data_wrangling_mini_project.ipynb)
 6. [Data Wrangling - JSON](https://github.com/mominasadullahkhan/Springboard/blob/master/sliderule_dsi_json_exercise.ipynb)
